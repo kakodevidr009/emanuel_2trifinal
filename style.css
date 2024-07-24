@@ -2,4 +2,15 @@ body {background-color: yellowgreen;
 }
 h2 {text-align: center;
 color: royalblue;}
-#sergiogotoso {width: 70%;}
+#sergiogotoso {width: 70%;
+}
+#sergiogotoso {margin-left: 20%;
+}
+#sergiomaravilha {width: 20%;}
+h3 {border-color: aqua;
+border-style: double;}
+#sergiomusculo {width: 30%;}
+h1 {color:brown;}
+h4 {border-color: red;
+border-style: groove;
+border-width: 9px;}
