@@ -10,6 +10,9 @@ color: royalblue;}
 h3 {border-color: aqua;
 border-style: double;}
 #sergiomusculo {width: 30%;}
+#sergiomusculo {border-color: blue;}
+#sergiomusculo {border-style: hidden;}
+#sergiomusculo {border-width: 10px;}
 h1 {color:brown;}
 h4 {border-color: red;
 border-style: groove;
